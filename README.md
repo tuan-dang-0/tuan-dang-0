@@ -1,10 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://tuandang.netlify.app/)
 <h1 align="center">Hi 👋, I'm Tuan Dang</h1>
-<h3 align="center">Aspiring SWE | Web Development | Grad 2025 🐊 (Masters)</h3>
+<h3 align="center">Aspiring SWE | Web Development | Grad 2025 🐊 (Masters)</h3><br>
 <img align="right" alt="Coding" width="400" style="border-radius:8px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-🌱 I’m currently learning **Advanced React, TailWind**
+🌱 I’m currently learning **Advanced React, TailWindCSS**
 
 👨‍💻 All of my projects are available at [https://tuandang.netlify.app/](https://tuandang.netlify.app/)
 
@@ -27,4 +27,4 @@ Hobbies: **🏋🏼 🥘**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuan-dang-0&show_icons=true&locale=en" alt="tuan-dang-0" /></p>
 
-(May have some errors.. wrong email in github CLI haha)
+(May have some errors in contributions ... had the wrong email in GitHub CLI! 😭)
