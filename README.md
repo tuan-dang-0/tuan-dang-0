@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning **Advanced React, TailWindCSS**
 
-👨‍💻 All of my projects are available at [https://tuandang.netlify.app/](https://tuandang.netlify.app/)
+👨‍💻 All of my projects are available at [https://tuandang.netlify.app/](https://tuandang.dev/)
 
 📫 How to reach me **tuan3dang@gmail.com**
 
